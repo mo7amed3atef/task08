@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="searchTask1/searchTask1.csproj" />
+  <Project Path="SearchTask2/SearchTask2.csproj" />
+  <Project Path="task08/task08.csproj" />
+</Solution>
